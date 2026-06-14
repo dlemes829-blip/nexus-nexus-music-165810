@@ -1,0 +1,15 @@
+{
+  "structuralRepairs": [
+    "Resolvida versao standalone de @tanstack/react-query",
+    "Removida dependencia interna indisponivel @workspace/api-client-react",
+    "Resolvida versao standalone de react",
+    "Resolvida versao standalone de react-dom",
+    "Resolvida versao standalone de zod",
+    "Removido expo-audio incompativel e nao utilizado",
+    "Adicionado babel-preset-expo compativel com SDK 54",
+    "Scripts Replit substituidos por comandos Expo portaveis",
+    "Referencia ao monorepo removida do tsconfig",
+    "Plugin invalido expo-av removido do app.json"
+  ],
+  "repairedAt": "2026-06-14T03:53:18.412Z"
+}
